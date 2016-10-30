@@ -1,5 +1,5 @@
 #include "mainconsole.h"
-#include "SongList.h"
+#include "songlist.h"
 #include "eptr.h"
 
 int main()
