@@ -1,7 +1,7 @@
 Ethan Lew
 G03729047
-CS 162, Project 2
-10/17/2016
+CS 162, Project 3
+10/31/2016
 Instructor Li Liang
 
 Usage
@@ -17,9 +17,8 @@ Usage
   "quit"              quit the program
 
 Bugs
-  Due to a power outage, very little time was spent unit testing.
   All known issues have been resolved.
 
 Roadmap
-  Add an edit entry feature.
-  Query database without being case sensitive.
+  I did not add any new features. I have been busy applying the CS 
+  162 curriculum on other projects, most notably on kernel processing.
