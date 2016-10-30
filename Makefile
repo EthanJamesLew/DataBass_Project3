@@ -1,6 +1,6 @@
 ##Generic Makefile
 
-TARGET   = Project02_DataBass
+TARGET   = Project03_DataBass
 
 CC       = g++
 CFLAGS   = -std=c++11 -pedantic -Wall -I./include -I./src
