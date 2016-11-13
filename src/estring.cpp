@@ -15,12 +15,14 @@ namespace e
 
 	EString::EString()
 	{
-		
+		_cstr = nullptr;
 	}
 
 	EString::~EString()
 	{
-
+		if(_cstr)
+                        free(_cstr);
+                _cstr = nullptr;
 
 	}
 
